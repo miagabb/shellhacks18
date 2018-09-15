@@ -13,7 +13,7 @@ Hackathon project for ShellHacks2018
 
 ## What we learned
 
-## What's next for Spoiled
+## What's next for Armadio
 
 ## Built With
 Wix.com and JavaScript
