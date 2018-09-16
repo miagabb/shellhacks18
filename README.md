@@ -5,13 +5,13 @@ Hackathon project for ShellHacks2018
 The inspiration for this project came from one of our member's younger sister's desire for a simple closet app that lays out the clothes she owns.
 
 ## What it does
-Armadio is a closet website/mobile application that allows users to upload and tag their clothes, have other users rate their outfits for feedback, and chat with one another.
+Armadio is a closet website/mobile application that allows users to upload and rate their clothes, check the weather to ensure they wear the right outfit, as well as includes a chat function.
 
 ## How we built it
 Using Wix.com, we implemented WixCode and JavaScript to create our website.
 
 ## Challenges we ran into
-Our team had very little to almost no knowledge/experience using Wix.com so this was definitely the biggest hurdle faced in our website development.
+Our team had very little to almost no knowledge/experience using Wix.com so this was definitely the biggest hurdle faced in our website development. We also had difficulty with trying to implement a tagging system.
 
 ## Accomplishments that we're proud of
 We are super proud that we managed to create something using Wix with our limited experience with it.
